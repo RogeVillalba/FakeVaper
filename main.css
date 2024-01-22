@@ -1,0 +1,44 @@
+* {
+    Margin:0;
+    padding:0;
+ }
+
+/*INDEX*/
+/*MAIN*/
+body{
+    background-color: rgb(192, 145, 145);
+
+}
+
+.imgFondo{
+    height: 100%;
+    width: 100%;
+}
+
+.buttonTrap{
+    display: block;
+    font-size: 25px;
+    height: 45px;
+    width: 105px;
+    border-radius: 20px;
+    opacity: 0.8;
+    font-family: 'Grape Nuts', cursiva;;
+    font-weight: bold;
+       
+}
+
+.buttonTech{
+    font-size: 22px;
+    height: 70px;
+    width: 100px;
+    border-radius: 20px;
+    opacity: 0.8;
+    font-family: 'Grape Nuts', cursiva;;
+    font-weight: bold;
+}
+
+/*MAIN*/
+
+
+
+/*TRAP*/
