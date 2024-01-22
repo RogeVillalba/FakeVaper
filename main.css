@@ -75,8 +75,6 @@ body{
     display: flex;
     position: relative;
     bottom: 150px;
-
-
 }
 
 .logos{
@@ -205,7 +203,32 @@ footer{
 
 /*TECH*/
 
+.mainTech{
+    height: 360px;
+}
+
 .imgFondoTech{
     height: 100%;
     width: 100%;
+}
+.logosTechPadre{
+    display: block;
+    justify-content: center;
+    bottom: 350px;
+    position: relative;
+    
+}
+.logosTech{
+    display: flex;
+    position: relative;
+
+}
+
+.textFooterTech{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    position: relative;
+    top: 20px;
+    color: beige;
 }
