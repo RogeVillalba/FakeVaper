@@ -130,7 +130,6 @@ body{
     text-align: center;
     color: beige;
     position: relative;
-    top: 10px;
 }
 
 .textUltLanz{
@@ -202,4 +201,11 @@ footer{
    flex-direction: column;
    justify-content: center;
    align-items: center;
+}
+
+/*TECH*/
+
+.imgFondoTech{
+    height: 100%;
+    width: 100%;
 }
