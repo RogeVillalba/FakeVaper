@@ -133,6 +133,12 @@ body{
     top: 10px;
 }
 
+.textUltLanz{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
 .ultLanzamiento{
     display: flex;
     flex-direction: column;
@@ -147,6 +153,7 @@ body{
     width: 260px;
     margin: 5px;
     border-radius: 15px;
+   
 }
 /*FOOTER */
 /*FOOTER*/
@@ -169,7 +176,7 @@ footer{
     font-size: 18px;
     font-weight: bolder;
     position: relative;
-    top: 10px;
+    top: 20px;
     color: beige;
 
 }
