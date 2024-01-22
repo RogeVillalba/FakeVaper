@@ -150,3 +150,49 @@ body{
 }
 /*FOOTER */
 /*FOOTER*/
+
+footer{
+    background-color: rgb(43, 39, 39);
+    
+}
+.footerContact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.textFooter{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    position: relative;
+    top: 10px;
+    color: beige;
+
+}
+
+.logosContacto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    
+}
+
+.logos__footer{
+    height: 40px;
+    width: 40px;
+}
+
+#logos__Contacto{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
