@@ -139,11 +139,17 @@ body{
 }
 
 .fakeVaper{
-    height: 150px;
-    width: 260px;
+    height: 180px;
+    width: 270px;
     margin: 5px;
     border-radius: 15px;
-   
+    
+}
+
+.fakeVaperVideo{
+    height: 180px;
+    width: 270px;
+    border-radius: 15px;
 }
 /*FOOTER */
 /*FOOTER*/
