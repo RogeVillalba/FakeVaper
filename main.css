@@ -73,7 +73,7 @@ body{
 .logosTrap{
     display: flex;
     position: relative;
-    bottom: 150px;
+
 }
 
 .logos{
@@ -95,14 +95,6 @@ body{
 .logos__img{
     height: 50px;
     width: 50px;
-}
-
-.logosTrap li{
-    transition: transform 1s;
-}
-
-.logosTrap li:hover{
-    transform: scale(1.2);
 }
 
 .boton{
