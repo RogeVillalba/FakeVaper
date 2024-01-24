@@ -141,6 +141,10 @@ body{
     align-items: center;
     align-content: space-around;
 }
+ 
+.UltLanzPadre{
+    padding: 0%;
+}
 
 .fakeVaper{
     height: 150px;
