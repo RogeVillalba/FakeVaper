@@ -225,9 +225,10 @@ footer{
 .logosTechPadre{
     display: block;
     justify-content: center;
+    margin: auto;
     bottom: 350px;
     position: relative;
-    
+    padding: 0%;
 }
 .logosTech{
     display: flex;
