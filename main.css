@@ -202,17 +202,15 @@ footer{
 }
 
 /*TECH*/
-.imgFondoTech{
-    height: 100%;
-    width: 100%;
+.sectionPlataformasTech{
+    display: flex;
+    flex-direction: column;    
 }
+
 .logosTechPadre{
-    display: block;
-    justify-content: center;
-    margin: auto;
-    position: relative;
     padding: 0%;
 }
+
 .logosTech{
     display: flex;
     position: relative;
