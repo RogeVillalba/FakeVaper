@@ -202,16 +202,6 @@ footer{
 }
 
 /*TECH*/
-.mainTech{
-    display: block;
-    text-decoration: none;
-    color: black;
-}
-
-.mainTech{
-    height: 360px;
-}
-
 .imgFondoTech{
     height: 100%;
     width: 100%;
@@ -220,7 +210,6 @@ footer{
     display: block;
     justify-content: center;
     margin: auto;
-    bottom: 350px;
     position: relative;
     padding: 0%;
 }
@@ -238,3 +227,13 @@ footer{
     top: 20px;
     color: beige;
 }
+
+.volverIndexTech{
+    display:flex;
+    justify-content: flex-start;
+    background-color: rgba(213, 78, 54, 0.691);
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
