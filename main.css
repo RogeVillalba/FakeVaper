@@ -137,7 +137,7 @@ body{
 .fakeVaper{
     height: 180px;
     width: 270px;
-    margin: 5px;
+    margin: 15px;
     border-radius: 15px;
     
 }
@@ -145,6 +145,7 @@ body{
 .fakeVaperVideo{
     height: 180px;
     width: 270px;
+    margin: 15px;
     border-radius: 15px;
 }
 /*FOOTER */
@@ -251,3 +252,13 @@ footer{
     font-weight: bolder;
 }
 
+.logosContactoTech{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    
+}
