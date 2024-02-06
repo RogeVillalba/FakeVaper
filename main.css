@@ -46,8 +46,8 @@ body{
 .volverIndex{
     display:flex;
     justify-content: flex-start;
+    background-color: rgba(0, 0, 0, 0.388);
     text-decoration: none;
-    top: 23px;
     color: black;
     font-weight: bolder;
     position: relative;
