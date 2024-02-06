@@ -212,6 +212,27 @@ footer{
     display: flex;
 }
 
+.logosTech{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none; 
+}
+
+.logos__img__list__Tech{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.logos__img__Tech{
+    height: 50px;
+    width: 50px;
+}
+
 .textFooterTech{
     text-align: center;
     font-size: 18px;
