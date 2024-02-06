@@ -209,12 +209,7 @@ footer{
 
 .logosTechPadre{
     padding: 0%;
-}
-
-.logosTech{
     display: flex;
-    position: relative;
-
 }
 
 .textFooterTech{
