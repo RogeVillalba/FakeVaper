@@ -46,7 +46,7 @@ body{
 .volverIndex{
     display:flex;
     justify-content: flex-start;
-    background-color: rgba(0, 0, 0, 0.388);
+    background-color: rgba(213, 78, 54, 0.691);
     text-decoration: none;
     color: black;
     font-weight: bolder;
@@ -54,14 +54,11 @@ body{
 }
 .sectionPlataformas{
     display: flex;
-    flex-direction: column;
-    height: 80vh;
-    
+    flex-direction: column;    
 }
 
 
 .textoMusica{
-    position: relative;
     text-align: center;
     font-size: 17px;
     font-weight: bold;
@@ -72,7 +69,6 @@ body{
 
 .logosTrap{
     display: flex;
-
 }
 
 .logos{
