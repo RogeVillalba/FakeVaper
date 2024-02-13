@@ -220,7 +220,7 @@ footer{
     align-items: center;
     list-style: none; 
     position: relative;
-    bottom: 150px;
+    bottom: 30px;
 }
 
 .logos__img__list__Tech{
@@ -235,6 +235,10 @@ footer{
 .logos__img__Tech{
     height: 50px;
     width: 50px;
+}
+
+.footertech{
+    height: 100%;
 }
 
 .textFooterTech{
