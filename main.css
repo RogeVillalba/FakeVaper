@@ -211,6 +211,7 @@ footer{
 .logosTechPadre{
     padding: 0%;
     display: flex;
+    
 }
 
 .logosTech{
@@ -218,6 +219,8 @@ footer{
     flex-direction: row;
     align-items: center;
     list-style: none; 
+    position: relative;
+    bottom: 150px;
 }
 
 .logos__img__list__Tech{
@@ -252,13 +255,3 @@ footer{
     font-weight: bolder;
 }
 
-.logosContactoTech{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    list-style: none;
-    padding: 10px;
-    margin: 0;
-    
-}
