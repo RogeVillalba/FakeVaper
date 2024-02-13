@@ -205,7 +205,8 @@ footer{
 /*TECH*/
 .sectionPlataformasTech{
     display: flex;
-    flex-direction: column;    
+    flex-direction: column;  
+    height: 100%;  
 }
 
 .logosTechPadre{
@@ -237,16 +238,14 @@ footer{
     width: 50px;
 }
 
-.footertech{
-    height: 100%;
-}
+
 
 .textFooterTech{
     text-align: center;
     font-size: 18px;
     font-weight: bolder;
     position: relative;
-    top: 20px;
+    top: 35px;
     color: beige;
 }
 
