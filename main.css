@@ -239,7 +239,18 @@ footer{
     width: 50px;
 }
 
+.sectionVideoTech{
+    background-color: rgba(75, 61, 61, 0.671);
+}
 
+.videoTech{
+    display: flex;
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
 
 .textFooterTech{
     text-align: center;
