@@ -6,7 +6,7 @@
 /*INDEX*/
 /*MAIN*/
 body{
-    background-color: rgb(192, 145, 145);
+    background-color: rgb(43, 39, 39);
 
 }
 
@@ -46,12 +46,15 @@ body{
 .volverIndex{
     display:flex;
     justify-content: flex-start;
-    background-color: rgba(213, 78, 54, 0.691);
+    background-color: rgb(50, 42, 42);
     text-decoration: none;
-    color: black;
+    color: rgb(194, 181, 181);
     font-weight: bolder;
     position: relative;
 }
+
+
+
 .sectionPlataformas{
     display: flex;
     flex-direction: column;  
@@ -241,15 +244,17 @@ footer{
 
 .sectionVideoTech{
     background-color: rgba(75, 61, 61, 0.671);
+    height: 400px;
+    background-color: rgb(50, 42, 42);
+
 }
 
 .videoTech{
     display: flex;
-    height: 200px;
+    height: 300px;
     width: 100%;
-    padding-top: 20px;
-    padding-bottom: 20px;
     border-radius: 10px;
+    
 }
 
 .textFooterTech{
@@ -264,9 +269,8 @@ footer{
 .volverIndexTech{
     display:flex;
     justify-content: flex-start;
-    background-color: rgba(213, 78, 54, 0.691);
+    background-color: rgb(50, 42, 42);
     text-decoration: none;
-    color: black;
+    color: rgb(194, 181, 181);
     font-weight: bolder;
 }
-
